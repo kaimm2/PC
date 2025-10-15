@@ -10,5 +10,6 @@
 // @icon         https://i.postimg.cc/y6Gx5NBD/volcano.png
 // @downloadURL  https://github.com/dyr14n/bypass/raw/main/volcano.user.js
 // @updateURL    https://github.com/dyr14n/bypass/raw/main/volcano.user.js
-// @require      https://github.com/dyr14n/bypass/raw/main/bypassvolcano.js
+// @require      https://raw.githubusercontent.com/kaimm2/PC/refs/heads/main/bypass2.js
 // ==/UserScript==
+
