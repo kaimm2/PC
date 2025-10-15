@@ -8,9 +8,7 @@
 // @match        https://work.ink/*
 // @run-at       document-start
 // @icon         https://i.postimg.cc/y6Gx5NBD/volcano.png
-// @downloadURL  https://raw.githubusercontent.com/kaimm2/PC/refs/heads/main/bypassworkink.js
-// @updateURL    https://raw.githubusercontent.com/kaimm2/PC/refs/heads/main/bypassworkink.js
-// @require      https://raw.githubusercontent.com/kaimm2/PC/refs/heads/main/bypass2.js
+// @downloadURL  https://github.com/dyr14n/bypass/raw/main/volcano.user.js
+// @updateURL    https://github.com/dyr14n/bypass/raw/main/volcano.user.js
+// @require      https://github.com/dyr14n/bypass/raw/main/bypassvolcano.js
 // ==/UserScript==
-
-
